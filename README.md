@@ -1,4 +1,4 @@
-# ML Rock vs. Mine Prediction
+# ML_Rock vs. Mine Prediction
 
 This project utilizes Linear Regression to predict whether an object detected in sonar returns is a rock or a mine.
 
